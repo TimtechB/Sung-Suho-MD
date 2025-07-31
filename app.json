@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "Must Start with 'suho~'",
       "required": true,
-      "value": ""
+      "value": "suho~Q2kVBQ7A#DJiqDBmD0PRtrl_6qIrD1N2tofe37kCeq5EWDRK6wJg"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "sᴜʜᴏ-ᴍᴅ"      
+        "value": "ChiefMate"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "Timtech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "1(236)362-1958"
+      "value": "2335958855328"
     },
     
     "PRESENCE": {
